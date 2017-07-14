@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 bxdjbvjdvjsbhi
+=======
+hi
+>>>>>>> parent of 39eca87... This is the commit message ok
 test content for git tutorial
